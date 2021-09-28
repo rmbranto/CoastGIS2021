@@ -1,1 +1,1 @@
-see also: <strong><a href="https://github.com/rmbranto/Oceanlife-Data-Dashboard/tree/main/deliverables/CoastGIS_2021">https://github.com/rmbranto/Oceanlife-Data-Dashboard/tree/main/deliverables/CoastGIS_2021 </a></strong>
+see also: <strong><a href="https://github.com/rmbranto/Oceanlife-Data-Dashboard"></a>https://github.com/rmbranto/Oceanlife-Data-Dashboard</strong>
